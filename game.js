@@ -13,6 +13,7 @@ const colors = ['red', 'blue', 'yellow', 'pink',
 'brown', 'gold', 'white', 'orange', 'silver']
 const SQUARES_NUMBER = 220;
 
+
 for (let i = 0; i < SQUARES_NUMBER; i++) {
     const square = document.createElement('div')
     square.classList.add('square')
