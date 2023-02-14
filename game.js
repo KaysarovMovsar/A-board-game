@@ -38,7 +38,7 @@ function removeColor(element) {
 }
 
  function getRandomColor() {
-    const index = 
-    * colors.length)
+    const index = colors.length
     return colors[index]
 }
+/*I add something don't you see stupid bastard */
